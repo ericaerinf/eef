@@ -4,10 +4,10 @@
     <title>Erica&#39;s blog is better than Kevin&#39;s</title>
     <description>Testing testing testing
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Jul 2016 12:21:48 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Jul 2016 12:21:48 -0400</lastBuildDate>
+    <link>http://yourdomain.com/eef/</link>
+    <atom:link href="http://yourdomain.com/eef/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Jul 2016 15:55:57 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Jul 2016 15:55:57 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,63 @@
 
 </description>
         <pubDate>Mon, 11 Jul 2016 12:05:58 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/07/11/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/07/11/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/eef/jekyll/update/2016/07/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/eef/jekyll/update/2016/07/11/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>How This Site Was Made</title>
+        <description>&lt;p&gt;Jekyll is a super awesome static site generator. Here is how I made my site using it!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;First thing you want to do is&lt;/p&gt;
+
+&lt;h1 id=&quot;install-jekyll&quot;&gt;1. install jekyll…&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/&quot;&gt;NPM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/downloads/&quot;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubygems.org/pages/download&quot;&gt;RubyGems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More details to come…&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;jekyll-build&quot;&gt;2. jekyll build&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;open up terminal window and navigate to the directory where you want your repository to exist locally.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;I recommend the home directory!&lt;/em&gt;&lt;br /&gt;
+   &lt;img src=&quot;https://ericaerinf.github.io/testblog/images/home.png&quot; alt=&quot;alt text&quot; title=&quot;home directory icon&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;execute &lt;code class=&quot;highlighter-rouge&quot;&gt;$ jekyll new &lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;to be continued…..&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;deploy-site-to-github-pages&quot;&gt;3. Deploy site to github pages!&lt;/h1&gt;
+
+</description>
+        <pubDate>Mon, 11 Jul 2016 12:05:58 -0400</pubDate>
+        <link>http://yourdomain.com/eef/jekyll/update/2016/07/11/welcome-to-jekyll-copy.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/eef/jekyll/update/2016/07/11/welcome-to-jekyll-copy.html</guid>
         
         
         <category>jekyll</category>
