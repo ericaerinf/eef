@@ -37,7 +37,7 @@ More details to come...
  it will create a new folder filled with these subfolders:
  
 	![alt text](https://ericaerinf.github.io/eef/images/folders.png "folders")
--  then `$ jekyll build` You will notice a new folder appear: _site. Any changes made within this folder are not saved as it is constantly regenerated.
+-  then `$ jekyll build` You will notice a new folder appear: _site. Any changes made within this folder are not saved as it is constantly regenerated (I just wouldn't mess with it).
 - Go to Github, create a new repository with the same name
 -  drag the subfolders (_config.yml - index.html) you just created into the new repository window
 -  delete all the folders on your computer that you just made
