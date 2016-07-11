@@ -11,7 +11,7 @@ Jekyll is a super awesome static site generator. Here is how I made my site usin
 
 First thing you want to do is 
 
-# 1. install jekyll...    
+# 1. Install Jekyll...    
 
  - [NPM](https://www.npmjs.com/)
  - [Node.js](https://nodejs.org/en/)
@@ -26,7 +26,7 @@ More details to come...
 ------------------------------------------
 
 
-# 2. jekyll build 
+# 2. Jekyll Build 
 
  - open up terminal window and navigate to the directory where you want your repository to exist locally. 
  
@@ -38,6 +38,7 @@ More details to come...
  
 	![alt text](https://ericaerinf.github.io/eef/images/folders.png "folders")
 -  then `$ jekyll build` You will notice a new folder appear: _site. Any changes made within this folder are not saved as it is constantly regenerated (I just wouldn't mess with it).
+-  Use `$ jekyll serve` to work with your site locally
 - Go to Github, create a new repository with the same name
 -  drag the subfolders (_config.yml - index.html) you just created into the new repository window
 -  delete all the folders on your computer that you just made
