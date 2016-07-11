@@ -37,13 +37,12 @@ More details to come...
  it will create a new folder filled with these subfolders:
  
 	![alt text](https://ericaerinf.github.io/eef/images/folders.png "folders")
-
+-  then `$ jekyll build` You will notice a new folder appear: _site. Any changes made within this folder are not saved as it is constantly regenerated.
 - Go to Github, create a new repository with the same name
--  drag the subfolders you just created into the new repository window
+-  drag the subfolders (_config.yml - index.html) you just created into the new repository window
 -  delete all the folders on your computer that you just made
 -  **clone the repository**
 
--  
 
 to be continued.....
  
@@ -53,8 +52,9 @@ to be continued.....
 # 3. Deploy site to github pages!
 
 
-- Some changes need to be made in the _config.yml file, open it in your favorite text editor and change the baseurl
 -  On Github, create a new branch called **gh-pages**. Whenever you are pushing, make sure it is to the gh-pages branch and not the master.
+- Some changes need to be made in the _config.yml file, open it in your favorite text editor and change the baseurl
+
 
 
 
