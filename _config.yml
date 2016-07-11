@@ -10,7 +10,7 @@ title: Erica's blog is better than Kevin's
 email: ericafremming@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Testing testing testing
-baseurl: "/testblog" # the subpath of your site, e.g. /blog
+baseurl: "/eef" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 github_username:  ericaerinf
